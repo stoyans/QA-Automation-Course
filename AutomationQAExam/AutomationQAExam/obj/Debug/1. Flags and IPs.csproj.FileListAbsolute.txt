@@ -1,0 +1,23 @@
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\AutomationQAExam.dll
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\AutomationQAExam.pdb
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.framework.dll
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.dll
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.Support.dll
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.framework.xml
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.xml
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.Support.xml
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\obj\Debug\AutomationQAExam.dll
+C:\Users\Tanis\Desktop\AutomationQAExam\AutomationQAExam\obj\Debug\AutomationQAExam.pdb
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\AutomationQAExam.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\AutomationQAExam.pdb
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.framework.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.Support.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.framework.xml
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.xml
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.Support.xml
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csproj.CoreCompileInputs.cache
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csproj.CopyComplete
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\AutomationQAExam.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\AutomationQAExam.pdb
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csprojAssemblyReference.cache
