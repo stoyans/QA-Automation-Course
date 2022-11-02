@@ -14,10 +14,14 @@ D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nun
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.dll
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.Support.dll
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.framework.xml
-D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.xml
-D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\WebDriver.Support.xml
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csproj.AssemblyReference.cache
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csproj.CoreCompileInputs.cache
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csproj.CopyComplete
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\AutomationQAExam.dll
 D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\AutomationQAExam.pdb
-D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\obj\Debug\1. Flags and IPs.csprojAssemblyReference.cache
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\NUnit3.TestAdapter.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\NUnit3.TestAdapter.pdb
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.engine.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.engine.api.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\nunit.engine.core.dll
+D:\MyDocs\Programming\Automation\AutomationQAExam\AutomationQAExam\bin\Debug\testcentric.engine.metadata.dll

@@ -20,7 +20,6 @@ namespace AutomationQAExam.Pages
 
         public void GetCountryData(List<String> countriesNames)
         {
-            string url = String.Empty;
             for (int i = 0; i < countriesNames.Count; i++)
             {
                 if (countriesNames[i].Contains("Bosnia") || countriesNames[i].Contains("Czech")
@@ -30,7 +29,7 @@ namespace AutomationQAExam.Pages
                     countriesNames[i] = CheckExpetionCountries(countriesNames[i]);
                 }
 
-                url = "http://flagpedia.net/" + countriesNames[i];
+                string url = "http://flagpedia.net/" + countriesNames[i];
                 this.Driver.Url = url;
                 MoveToMapWrapper();
                 Thread.Sleep(5000);

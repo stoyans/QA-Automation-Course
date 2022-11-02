@@ -29,7 +29,7 @@ namespace AutomationQAExam.Pages
         {
             get
             {
-                return this.Driver.FindElement(By.XPath("/html/body/div[3]/main/table/tbody/tr[2]/td"));
+                return this.Driver.FindElement(By.XPath("/html/body/div[2]/main/table/tbody/tr[2]/th"));
             }
         } 
     }

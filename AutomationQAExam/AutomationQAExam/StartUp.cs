@@ -34,7 +34,7 @@ namespace AutomationQAExam
             flagpedia.GetCountryData(countriesNames);   
         }
 
-        [Test]
+        [Obsolete]
         public void ExtractIPRanges()
         {
             IPRangesPage ipranges = new IPRangesPage(driver);
@@ -42,8 +42,16 @@ namespace AutomationQAExam
             ipranges.ExtractRanges(countriesNames);
         }
 
+        [Test]
+        public void ExtractIPRangesUpdate()
+        {
+            IPRangesPageUpdate ipranges = new IPRangesPageUpdate(driver);
+            ipranges.NavigateToIPRanges();
+            ipranges.SaveCountryIPRangeList(countriesNames);
+        }
+
         [TearDown]
-        public void closeSession()
+        public void CloseSession()
         {
             driver.Quit();
         }

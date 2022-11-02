@@ -10,26 +10,18 @@ namespace AutomationQAExam.Pages
 {
     public abstract class BasePage
     {
-        private IWebDriver driver;
-
         public BasePage(IWebDriver driver)
         {
-            this.driver = driver;
+            this.Driver = driver;
         }
 
-        public IWebDriver Driver
-        {
-            get
-            {
-                return this.driver;
-            }
-        }
+        public IWebDriver Driver;
 
         public WebDriverWait Wait
         {
             get
             {
-                WebDriverWait wait = new WebDriverWait(this.driver, TimeSpan.FromSeconds(20));
+                WebDriverWait wait = new WebDriverWait(this.Driver, TimeSpan.FromSeconds(20));
                 return wait;
             }
         }
